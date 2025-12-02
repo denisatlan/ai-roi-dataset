@@ -829,7 +829,7 @@ If you use this dataset or report, please cite as:
 **APA:**
 ```
 Atlan, D. (2025). AI ROI Dataset: 200 B2B Deployments Analysis (2022-2025). 
-ENDKOO / HumaLoop. https://doi.org/[DOI]
+ENDKOO / HumaLoop. [https:///[DOI]](https://doi.org/10.5281/zenodo.17795133)
 ```
 
 **BibTeX:**
