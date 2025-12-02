@@ -5,8 +5,8 @@
 ---
 
 **Author:** Denis ATLAN  
-**Organization:** ENDKOO / HumaLoop  
-**Contact:** denis@denisatlan.fr  
+**Organization:** ENDKOO 
+**Contact:** https://www.denisatlan.fr#contact
 **Date:** December 2025  
 **DOI:** [To be assigned upon Zenodo publication]  
 **License:** CC BY 4.0
