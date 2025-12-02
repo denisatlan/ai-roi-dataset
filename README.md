@@ -1,6 +1,6 @@
 # AI ROI Dataset: 200 B2B Deployments Analysis (2022-2025)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17795133.svg)](https://doi.org/10.5281/zenodo.17795133)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
@@ -173,14 +173,14 @@ If you use this dataset in your research or work, please cite:
   institution={ENDKOO / HumaLoop},
   type={Technical Report},
   url={https://github.com/denisatlan/ai-roi-dataset},
-  doi={10.5281/zenodo.XXXXXX}
+  doi={10.5281/zenodo.17795133}
 }
 ```
 
 **APA Format:**
 ```
 Atlan, D. (2025). AI ROI Dataset: 200 B2B Deployments Analysis (2022-2025). 
-ENDKOO / HumaLoop. https://doi.org/10.5281/zenodo.XXXXXX
+ENDKOO / HumaLoop. https://doi.org/10.5281/zenodo.17795133
 ```
 
 ## License
@@ -197,7 +197,7 @@ Under the following terms:
 ## Publications & Media
 
 - [Technical Report (PDF)](docs/technical_report_ai_roi.md)
-- [Zenodo Repository](https://doi.org/10.5281/zenodo.XXXXXX)
+- [Zenodo Repository](https://doi.org/10.5281/zenodo.17795133)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/denisatlan/ai-roi-200-b2b-deployments)
 - [Personal Website: Research Section](https://denisatlan.fr/research)
 
