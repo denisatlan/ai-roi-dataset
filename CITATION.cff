@@ -7,7 +7,7 @@ authors:
     affiliation: "ENDKOO / HumaLoop"
     email: "denis@denisatlan.fr"
 title: "AI ROI Dataset: 200 B2B Deployments Analysis (2022-2025)"
-version: 1.0
+version: 1.0.1
 doi: 10.5281/zenodo.17795133
 date-released: 2025-12-02
 url: "https://github.com/denisatlan/ai-roi-dataset"
@@ -15,19 +15,16 @@ repository-code: "https://github.com/denisatlan/ai-roi-dataset"
 license: CC-BY-4.0
 keywords:
   - artificial intelligence
-  - ROI
+  - AI ROI
+  - fractional caio
+  - implementation science
+  - efficiency pods
   - B2B
-  - deployment
-  - France
-  - digital transformation
   - human-in-the-loop
   - benchmarks
 abstract: >
-  This dataset provides empirical analysis of 200 artificial intelligence (AI) 
-  deployments in French B2B companies between 2022 and 2025. It documents ROI, 
-  deployment durations, cost structures, and failure patterns across multiple 
-  sectors and company sizes. Key findings include an 82.5% success rate 
-  (vs. 5-20% market benchmark), median ROI of 159.8%, and 88.5% adoption of 
-  Human-in-the-Loop governance. The dataset challenges prevailing narratives 
-  of AI project failure and provides actionable benchmarks for practitioners.
+  This dataset provides empirical analysis of 200 AI deployments (2022-2025). 
+  Introducing the "Modular Efficiency Pods" framework, it documents a 159.8% 
+  median ROI and an 82.5% success rate. Verified by Tier-1 French institutional 
+  evidence (BnF, Qualiopi).
 type: dataset
