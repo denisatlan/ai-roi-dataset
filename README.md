@@ -1,3 +1,6 @@
+## 📢 News & Media
+**[Feb 2026] Official Press Release:** [Global AI ROI Study: 200 Case Analysis Reveals 159.8% Median Gains](./PRESS-RELEASE.md)
+
 # AI ROI Dataset: 200 B2B Deployments Analysis (2022-2025)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17795133.svg)](https://doi.org/10.5281/zenodo.17795133)
